@@ -1,0 +1,19 @@
+  *{
+    margin: 0;
+    padding: 0;
+  }
+  
+    body{
+    height: 100vmin; 
+    align-items:center;
+    justify-content: center;
+    display: flex;
+  }
+   #image3{ 
+
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+    object-position: top;
+    border-radius: 50%;
+   }
