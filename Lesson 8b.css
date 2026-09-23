@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial,  sans-serif;
+}
+
+body{ 
+    height: 100vmin;
+    background-color: #757D6F;
+} 
+  
+
+#para{
+    margin-top: 5rem;
+    margin-left: 4rem;
+    vertical-align: middle;
+    display: inline-block;
+    width: 230px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    
+}
+
+.button{
+     margin-top: 5rem;
+    background-color: #EEEAD7;
+    vertical-align: middle;
+     padding: 10px 10px;
+}
