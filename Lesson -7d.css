@@ -9,12 +9,14 @@ body{
     justify-content: center;
     align-items: center;
 } 
+
+
   #div{
     height: 50vmin;
-  }
-  
-#search{
-    
+  } 
+
+
+#search{   
     padding:  14px 14px ;
     font-size: large;
     border-style: solid;

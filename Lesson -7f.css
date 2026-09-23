@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{ 
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 100vmin;
+} 
+
+div {
+  padding-top: 3rem;
+  width: 400px;
+  height: 400px;
+}
+
+#email{
+    font-size: 20px;
+    color: grey;
+    font-weight: bold;
+} 
+
+#plain{
+    margin-top: 1rem;
+    height: 30px;
+    width: 400px;
+    border-radius: 3px;
+    border-color: light black;
+    border-style: solid;
+}
+ 
+#message{
+    padding: 14px 14px;
+    height: 50px;
+    width: 500px;
+    margin-top: 1rem;
+    font-size: 20px;
+    color: grey;
+} 
+#button{
+    padding-left: 25px;
+    padding-right: 25px ;
+    padding-top: 10px ;
+    padding-bottom: 10px;
+    background-color: #2D64BC;
+    color: white;
+    width: 350px;
+    height: 60px;
+    font-size: 22px;
+    border-radius: 30px;
+    border: none;
+    
+}
