@@ -1,0 +1,87 @@
+ *{
+    margin: 0;
+    padding: 0;
+ }
+
+ .tahoma{
+     margin: 3rem;
+    font-family: Tahoma;
+ }
+ .arial{
+    font-family: arial;
+ }
+ .verdana{
+    font-family: Verdana;
+ }
+
+ #ex-5a1{ 
+    font-size: 30px;
+    font-weight: bold;
+ }
+ 
+  #ex-5b1{ 
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 3rem;
+ }
+  #ex-5b2{ 
+    font-size: 20px;
+    color: red;
+    margin-left: 3rem;
+   font-style: italic;
+
+ }
+  #ex-5c1{ 
+    margin-top: 4rem;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 3rem;
+ }
+  #ex-5c2{ 
+    font-size: 20px;
+    color:grey;
+    margin-left: 3rem;
+ }
+  #ex-5c3{ 
+    font-size: 20px;
+    margin-left: 3rem;
+  }
+
+   #ex-5c4{ 
+    margin-top: 20px;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    border: none;
+    border-radius:2px;
+    padding-bottom:10px;
+    padding-right:10px;
+    padding-left:10px;
+    padding-top:10px;
+    padding-bottom:10px ;
+    font-size: 15px;
+   background-color: green;
+   color: white;
+ }
+
+
+  #ex-5d1{ 
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 4rem;
+    margin-left: 3rem;
+ }
+
+  #ex-5d2{ 
+    font-size: 18px;
+    margin-top: 15px;
+    margin-left: 3rem;
+
+ }
+
+   #ex-5d3{ 
+    display: block;
+    font-size: 20px;    
+    margin-top: 15px;
+    margin-left: 3rem;
+ }
+ 
