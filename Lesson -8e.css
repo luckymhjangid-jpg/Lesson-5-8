@@ -1,0 +1,85 @@
+*{  
+
+    margin: 0;
+    padding: 0;
+    font-family: Arial,  sans-serif;
+}
+
+
+body{ 
+    height: 150vmin;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+} 
+
+div{
+
+  padding-top: 3rem;
+  
+  width: 800px;
+  height: 400px;
+ 
+} #title{
+     margin-top: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3rem;
+    margin-right: 8rem;
+}
+ 
+ #pickup{
+    background-color :#F0F0F1;
+    color : black;
+    text-align : center;
+    justify-content : center;
+    margin-top : 3rem;
+    
+    font-size: 20px;
+    height : 4rem;
+    width : 35rem;
+    cursor :pointer;
+    border: none;
+    padding-right: 20rem;
+ }
+#uber{
+    background-color :black;
+    color : white;
+    text-align : center;
+    justify-content : center;
+    margin-top : 5rem;
+    margin-left : 3rem;
+    font-size: 20px;
+    height : 4rem;
+    width : 13rem;
+    cursor :pointer;
+    border: none;
+    
+ }
+ #dest{
+    background-color :#F0F0F1;
+    color : black;
+    text-align : center;
+    justify-content : center;
+    margin-top : 1rem;
+    width : 35rem;
+    font-size: 20px;
+    height : 4rem; 
+    cursor :pointer;
+    border: none;
+    padding-right: 22rem;
+    
+ }
+  
+ #later{
+     background-color :#F0F0F0;
+    color :  black;
+    text-align : center;
+    justify-content : center;
+    margin-top : 5rem;
+    margin-left : 3rem;
+    font-size: 20px;
+    height : 4rem;
+    width : 15rem;
+    cursor :pointer;
+    border: none;
+ }
